@@ -1,0 +1,54 @@
+{
+  "object": "vector_store.search_results.page",
+  "search_query": "What is the capital of Belgium?",
+  "data": [
+    {
+      "score": 0.90624547,
+      "content": [
+        {
+          "type": "text",
+          "text": "Brussels is the capital of Belgium."
+        }
+      ],
+      "file_id": "2",
+      "filename": null,
+      "attributes": {
+        "language": "en",
+        "year": 2026,
+        "category": "geography"
+      }
+    },
+    {
+      "score": 0.6717025,
+      "content": [
+        {
+          "type": "text",
+          "text": "Paris is the capital of France."
+        }
+      ],
+      "file_id": "1",
+      "filename": null,
+      "attributes": {
+        "language": "en",
+        "year": 2025,
+        "category": "geography"
+      }
+    },
+    {
+      "score": 0.3028422,
+      "content": [
+        {
+          "type": "text",
+          "text": "Our returns policy allows returns within 30 days."
+        }
+      ],
+      "file_id": "3",
+      "filename": null,
+      "attributes": {
+        "language": "en",
+        "year": 2027,
+        "category": "policy"
+      }
+    }
+  ]
+}
